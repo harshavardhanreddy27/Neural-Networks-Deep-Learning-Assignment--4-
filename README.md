@@ -2,7 +2,7 @@
 Neural Networks &amp; Deep Learning Assignment -4 
 
 # Question - 1:
-a)Imported data set which contains four attributes for further implementation
+### a)Imported data set which contains four attributes for further implementation
 c)Described the given values using describe keyword
 d)Checking therenis a null values in a given dataset
 1)Replaced the null values with mean
